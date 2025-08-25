@@ -5,7 +5,7 @@
 - Atualmente explorando Machine Learning e visualização interativa
 
 ### Tecnologias
-Python · Pandas · Matplotlib · Seaborn · Scikit‑Learn · SQL · Jupyter · Git
+Python · Pandas · Matplotlib · Seaborn · Scikit‑Learn · SQL · Jupyter · Git . Tensorflow . Keras . Polars
 
 ### Principais Projetos
 - **[budget-analysis-app](https://github.com/noamcoelho/budget-analysis-app)**: ferramenta interativa para gerenciar orçamentos e visualizar gastos.
