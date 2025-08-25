@@ -18,4 +18,4 @@ Python · Pandas · Matplotlib · Seaborn · Scikit‑Learn · SQL · Jupyter ·
 - Criação de dashboards interativos com Plotly
 
 ### Vamos nos conectar?
-[LinkedIn](https://www.linkedin.com/in/noamcoelho/) · [Email](mailto:seuemail@dominio.com)
+[LinkedIn](https://www.linkedin.com/in/noam-coelho-aa6395323) · [Email](coelhonoam@gmail.com)
