@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante de <b>Ciência de Dados</b>, apaixonado por transformar dados em decisões inteligentes.<br>
-  Atualmente explorando <b>Machine Learning</b> e <b>visualização interativa</b>.
+  Atualmente explorando <b>Machine Learning</b>, <b>Deep Learning</b> e <b>visualização interativa</b>.
 </p>
 
 ---
@@ -13,8 +13,12 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -53,7 +57,7 @@
 
 ## 📫 Vamos nos Conectar?
 
-- [LinkedIn](https://www.linkedin.com/in/noamcoelho/)  
-- ✉️ [Email](mailto:seuemail@dominio.com)  
+- [LinkedIn](https://www.linkedin.com/in/noam-coelho-aa6395323)  
+- ✉️ [Email](coelhonoam@gmail.com)  
 
 ---
