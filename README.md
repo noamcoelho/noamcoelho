@@ -19,3 +19,6 @@ Python · Pandas · Matplotlib · Seaborn · Scikit‑Learn · SQL · Jupyter ·
 
 ### Vamos nos conectar?
 [LinkedIn](https://www.linkedin.com/in/noam-coelho-aa6395323) · [Email](coelhonoam@gmail.com)
+
+![Noam's GitHub stats](https://github-readme-stats.vercel.app/api?username=noamcoelho&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noamcoelho&layout=compact&theme=radical)
