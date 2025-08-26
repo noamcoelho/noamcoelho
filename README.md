@@ -39,7 +39,7 @@
 - 🦷 **[dental_shade_classifier](https://github.com/noamcoelho/dental_shade_classifier)**  
   Modelo de Machine Learning para classificação de tons dentais.
 
-- 📈 **[Projeto Analytics](https://github.com/noamcoelho/Projeto-Analytics)**  
+- 📈 **[Projeto Analytics](https://github.com/noamcoelho/Projeto_analytics)**  
   Análise exploratória, visualização interativa e predição de risco em saúde utilizando Python, Streamlit e Scikit-Learn.
 
 ---
