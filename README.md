@@ -57,5 +57,3 @@
 - ✉️ [Email](mailto:seuemail@dominio.com)  
 
 ---
-
-⭐ Se curtiu algum projeto, não esqueça de deixar uma **estrela (⭐)**, isso ajuda muito!
